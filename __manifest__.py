@@ -1,6 +1,6 @@
 {
   'name': 'Manufacturing Cost for innoGRAPH',
-  'author': 'Ibnu Nur Khawarizmi',
+  'author': 'Innograph Odoo Developers',
   'version': '0.1',
   'depends': [
     'product','stock','mrp',
